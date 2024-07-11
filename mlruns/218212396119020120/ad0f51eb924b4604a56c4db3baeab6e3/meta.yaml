@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/WorkSpace/MachineLearningModel/mlruns/218212396119020120/ad0f51eb924b4604a56c4db3baeab6e3/artifacts
+end_time: 1720732314657
+entry_point_name: ''
+experiment_id: '218212396119020120'
+lifecycle_stage: active
+run_id: ad0f51eb924b4604a56c4db3baeab6e3
+run_name: luxuriant-lynx-141
+run_uuid: ad0f51eb924b4604a56c4db3baeab6e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720732314627
+status: 3
+tags: []
+user_id: Rafael

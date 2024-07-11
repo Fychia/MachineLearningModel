@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/WorkSpace/MachineLearningModel/mlruns/218212396119020120/5d7495a7bec44d12bbee902171e730bf/artifacts
+end_time: 1720732319362
+entry_point_name: ''
+experiment_id: '218212396119020120'
+lifecycle_stage: active
+run_id: 5d7495a7bec44d12bbee902171e730bf
+run_name: handsome-chimp-908
+run_uuid: 5d7495a7bec44d12bbee902171e730bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720732319338
+status: 3
+tags: []
+user_id: Rafael

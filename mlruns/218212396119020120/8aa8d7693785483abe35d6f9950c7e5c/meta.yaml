@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/WorkSpace/MachineLearningModel/mlruns/218212396119020120/8aa8d7693785483abe35d6f9950c7e5c/artifacts
+end_time: 1720728479985
+entry_point_name: ''
+experiment_id: '218212396119020120'
+lifecycle_stage: active
+run_id: 8aa8d7693785483abe35d6f9950c7e5c
+run_name: gifted-midge-544
+run_uuid: 8aa8d7693785483abe35d6f9950c7e5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720728479959
+status: 3
+tags: []
+user_id: Rafael

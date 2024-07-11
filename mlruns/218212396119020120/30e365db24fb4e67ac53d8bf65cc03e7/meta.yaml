@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/WorkSpace/MachineLearningModel/mlruns/218212396119020120/30e365db24fb4e67ac53d8bf65cc03e7/artifacts
+end_time: 1720732316985
+entry_point_name: ''
+experiment_id: '218212396119020120'
+lifecycle_stage: active
+run_id: 30e365db24fb4e67ac53d8bf65cc03e7
+run_name: calm-pig-972
+run_uuid: 30e365db24fb4e67ac53d8bf65cc03e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720732316547
+status: 3
+tags: []
+user_id: Rafael

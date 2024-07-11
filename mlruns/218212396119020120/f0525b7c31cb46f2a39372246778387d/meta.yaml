@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/WorkSpace/MachineLearningModel/mlruns/218212396119020120/f0525b7c31cb46f2a39372246778387d/artifacts
+end_time: 1720732318196
+entry_point_name: ''
+experiment_id: '218212396119020120'
+lifecycle_stage: active
+run_id: f0525b7c31cb46f2a39372246778387d
+run_name: fortunate-newt-678
+run_uuid: f0525b7c31cb46f2a39372246778387d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720732318117
+status: 3
+tags: []
+user_id: Rafael
